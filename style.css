@@ -1,0 +1,27 @@
+        #ExampleLink {
+           color: #CCCC00;
+        }
+        
+        #BulletedList1 {
+           color: #800080;
+           font-family: sans-serif, "Arial";
+        }
+        
+        #HTMLWelcome {
+            color: red;
+            font-size: 16px;
+            color: rgb
+        }
+        
+        #NumberedList1 {
+           color: green;
+           font-family: "Helvetica"
+        }
+        
+        .Table {
+           color: #800080;
+           font-size=2.4em
+        }
+body {
+    font-size: 16px;
+
