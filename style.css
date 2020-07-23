@@ -21,6 +21,10 @@
         .Table {
            color: #800080;
            font-size=2.4em
+        }
+        .scrollbar {
+           width: 50%;
+           height: 100px;
+            /* Make Scrollbars on Official HTML and CSS info */
+           overflow: auto; 
 }
-
-
